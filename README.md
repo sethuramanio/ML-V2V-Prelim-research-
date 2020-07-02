@@ -1,5 +1,5 @@
 # ML-V2V-Prelim-research-
-This repository consists the codes used to understand the application of Machine learning in V2V communication where this was used to write proposals and create a proof of concept for the problem statement.
+This repository consists the codes used to understand the application of Machine learning in V2V communication where this was used to write proposals and create a proof of concept for the problem statement. It contains the initial sanity check codes for 3 level LED data and 4 level LED data.
 
 
 This project seeks to improve the robustness of wireless sensing and networking technologies through a reality-aware wireless architecture that blends networking and sensing. 
