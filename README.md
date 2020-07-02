@@ -1,0 +1,6 @@
+# ML-V2V-Prelim-research-
+This repository consists the codes used to understand the application of Machine learning in V2V communication where this was used to write proposals and create a proof of concept for the problem statement.
+
+
+This project seeks to improve the robustness of wireless sensing and networking technologies through a reality-aware wireless architecture that blends networking and sensing. 
+As wireless sensing and networking technologies make significant strides in today's world, applications such as automated driving or augmented reality are increasingly involving rich sensing of the environment with unprecedented network requirements. Existing approaches that strictly separate the network stack and the perception component face challenges in providing robust perception and high-bandwidth networking. To address this, the project develops and studies a reality-aware wireless architecture that blends networking and sensing components, rather than isolating them. Robust perception and high-bandwidth networking benefit innovations across a diverse spectrum of high-impact areas including mixed-reality, robotics, and automated vehicles. For example, the use of such techniques to enhance driver assistance systems or automated vehicles has the potential to save numerous lives.
